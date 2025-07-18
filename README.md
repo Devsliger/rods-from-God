@@ -31,7 +31,7 @@ This tool computes:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YourUsername/rod-impact-sim.git
+git clone https://github.com/Devsliger/rod-impact-sim.git
 cd rod-impact-sim
 ```
 
