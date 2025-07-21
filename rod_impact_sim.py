@@ -1,7 +1,7 @@
 
 #!/usr/bin/env python3
 """Rod Impact Simulator
-Author: OpenAI Assistant
+Author: Nour-Eddine Zigouri
 Date: 2025‑07‑15
 
 Quick‑look tool for estimating ground‑impact effects of a
